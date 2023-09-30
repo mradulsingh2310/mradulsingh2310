@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Geo-location Store](https://github.com/bardrop/Geo-Location-Store.git)
 
-- 🌱 I’m currently learning **Django, Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bardrop](https://github.com/bardrop)
 
