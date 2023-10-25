@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bardrop&"  />
+  <img src="https://komarev.com/ghpvc/?username=bardrop&label=Profile%20views&color=0e75b6&style=flat" alt="bardrop"  />
 </div>
 
 ###
