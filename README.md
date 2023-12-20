@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img src="" alt="bardrop"  />
+  <img src="https://komarev.com/ghpvc/?username=bardrop&label=Profile%20views&color=0e75b6&style=flat" alt="bardrop" alt="bardrop"  />
 </div>
 
 ###
