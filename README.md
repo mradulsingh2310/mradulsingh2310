@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bardrop&label=Profile%20views&color=0e75b6&style=flat" alt="bardrop"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bardrop&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="bardrop"  />
 </div>
 
 ###
