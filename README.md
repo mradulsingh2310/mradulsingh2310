@@ -128,7 +128,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/terabhaiSM/terabhaiSM/e213b07e3eb3874a40befe078e011af7a500b4aa/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;">
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="" style="max-width: 100%;">
 
 ###
 
