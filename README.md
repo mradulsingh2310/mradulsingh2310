@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://cdn-learn.adafruit.com/guides/images/000/003/613/medium800/Fancy_Octocat_guide_image.png"  />
 </div>
 
 
@@ -7,13 +7,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bardrop?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<!--   <a href="https://www.linkedin.com/in/tanesha-t-ba7622258" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  </a> -->
   <a href="https://x.com/shantinaimilti?t=agIS189lFBmjwPYv5svFSg&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://instagram.com/genuine_ni_genuann?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+  <a href="https://instagram.com/kyahuzur?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bardrop&label=Profile%20views&color=0e75b6&style=flat" alt="bardrop"  />
+  <img src="https://komarev.com/ghpvc/?username=bardrop&label=Profile%20views&color=0e75b6&style=flat" alt="bardrop" alt="bardrop"  />
 </div>
 
 ###
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm bardrop from Ghaziabad, UP, India.<br><br>- 🔭 I’m working as Software Developer @Intell Labs<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I like to be a music critic.</p>
+<p align="left">I'm SM fan from India.<br><br>- 🔭 I’m working as Software Engineer at Accolade <br>- 📚 I'm currently using Java with SpringBoot and Maven<br>- ⚡ In my free time I like to be a music critic.<br>- 🤩 I’m working on my 3D Portfolio using Gulpjs, excited to finish it and present it.</p>
 
 ###
 
@@ -43,8 +43,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -95,6 +93,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
@@ -123,20 +123,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bardrop&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bardrop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=dracula&hide_border=false&order=2" height="188" alt="languages graph"  />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dracula&preferLogin=false">    <img  alt="bardrop's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/bardrop?cardType=level-alternate&theme=dracula&preferLogin=false" />  </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/bardrop/bardrop/output/snake.svg" alt="Snake animation" />
+###
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="" style="max-width: 100%;">
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31nzvvwraesspn3pgqwfldgxsvtu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 ###
