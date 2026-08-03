@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm SM fan from India.<br><br>- 🔭 I’m working as Software Engineer at Accolade <br>- 📚 I'm currently using Java with SpringBoot and Maven<br>- ⚡ In my free time I like to be a music critic.<br>- 🤩 I’m working on my 3D Portfolio using Gulpjs, excited to finish it and present it.</p>
+<p align="left">I'm SM fan from India.<br><br>- 🔭 I’m working as Senior Software Engineer <br>- 📚 I'm currently using Java with SpringBoot, Go, and Python<br>- ⚡ In my free time I like to be a music critic.<br>- 🤩 I’m working on my 3D Portfolio using Gulpjs, excited to finish it and present it.</p>
 
 ###
 
